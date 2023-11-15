@@ -1,0 +1,4 @@
+google-cloud-sdk/data/cli/gcloud.json
+google-cloud-sdk/.install/.backup/data/cli/gcloud.json
+google-cloud-sdk/.install/.backup/bin/anthoscli
+google-cloud-sdk/bin/anthoscli
